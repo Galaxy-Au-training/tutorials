@@ -13,16 +13,7 @@ copyright: '&copy; The authors; 2018-'
 #theme: yeti
 theme: material
 
-extra:
-    feature:
-        tabs: true
-    social:
-        - type: 'coffee'
-          link: ''
-        - type: 'github'
-          link: 'https://github.com/Galaxy-Au-training/tutorials'
-        - type: 'bug'
-          link: 'https://github.com/Galaxy-Au-training/tutorials/issues'
+
 
 
 markdown_extensions:
