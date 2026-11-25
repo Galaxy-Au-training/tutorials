@@ -1,3 +1,12 @@
+<ss> Update June 2024: </ss>
+<br>
+<ss>These tutorials were initially developed for the [Antibiotic Resistant Pathogens Initiative](https://bioplatforms.com/projects/sepsis/) </ss>
+<br>
+<ss>
+Galaxy-based tutorials have now been merged into the [Galaxy Training Network](https://training.galaxyproject.org/training-material/) </ss>
+<br>
+<ss> Please check there for the most up-to-date material, as this page is no longer maintained </ss>
+
 # What is Galaxy Australia?
 
 ## What is Galaxy?
